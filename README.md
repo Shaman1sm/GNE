@@ -22,7 +22,7 @@ Our language includes several convenient features, perfect for any aspiring Pres
 ㅁㄴㅇㄹㅁㄴㅇㄹ
 산술 연산자:
 * `+` 와 `더하기` 는 덧셈을 합니다
-* ㄴ
+* `true`와 `false` 대신에 `친박`과 `비박`을 사용한다.
 * ㅇ
 * ㄹ
 
