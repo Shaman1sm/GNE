@@ -6,5 +6,37 @@ TrumpScript is a language based upon the illustrious Donald Trump. As the undeni
 
 TrumpScript is our solution to this. It's the programming language Trump would approve of. Just like he is making America great again, we hope our efforts will make programming great again.
 
+## Features
+Our language includes several convenient features, perfect for any aspiring Presidential candidate including:
+* a
+* b
+* s
+* c
+* s
+* d
+* f
 
-오늘만 사는 사람들 : akic4op4
+## Grammar
+ㅁㄴㅇㄹㅁㄴㅇㄹ
+산술 연산자:
+* `+` 와 `더하기` 는 덧셈을 합니다
+* ㄴ
+* ㅇ
+* ㄹ
+
+Control flow:
+* a
+* s
+
+The exciting parts:
+* Strings are denoted by double quotes ("I love Trump")
+* The is and are keywords are used both to check for equality, and for assignment. To use for assignment, say something like * Trump is great or Democrats are dumb. To use to check for equality, do the same but append a ?. For example, you may need to ask yourself Trump is "the best"? (although we all know that would evaluate to fact anyway)
+
+
+## Example
+```
+asdfasdflkj
+```
+
+## 오늘만 사는 사람들
+akic4op4
