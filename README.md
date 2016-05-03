@@ -1,8 +1,8 @@
 # GNE
-해내겠습니다. 박GNE입니다.
+준비된 한국형 언어
 
-## Mission
-TrumpScript is a language based upon the illustrious Donald Trump. As the undeniably best presidential candidate in the 2016 language, we found that the current field of programming languages does not include any that Trump's glorious golden combover would approve of.
+## 해내겠습니다. GNE입니다.
+GNE(그네)는 대한민국 최초의 샤머니즘 대통령 박ㄹ혜의 어록들을 종합하여 만든 스크립트 언어입니다. As the undeniably best presidential candidate in the 2016 language, we found that the current field of programming languages does not include any that Trump's glorious golden combover would approve of.
 
 TrumpScript is our solution to this. It's the programming language Trump would approve of. Just like he is making America great again, we hope our efforts will make programming great again.
 
